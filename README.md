@@ -1,3 +1,11 @@
+Deployed in firebase 
+Project URL : https://arsenal-react.web.app/
+
+https://arsenal-react.web.app/sign_in to access admin areas
+
+username: savin@gmail.com
+password: password123 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
